@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/Threaded/!svn/ver/43/src/crawler
+END
+Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/Threaded/!svn/ver/37/src/crawler/Parser.java
+END
+Data.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/Threaded/!svn/ver/41/src/crawler/Data.java
+END
+Broker.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/Threaded/!svn/ver/42/src/crawler/Broker.java
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/Threaded/!svn/ver/41/src/crawler/Main.java
+END
+Analyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/Threaded/!svn/ver/41/src/crawler/Analyzer.java
+END
+Retriever.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/Threaded/!svn/ver/35/src/crawler/Retriever.java
+END
